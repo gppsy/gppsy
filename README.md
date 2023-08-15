@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nandini
 - 👀 I’m interested in Blockchain Development 
-- 🌱 I’m currently learning .net, dApp, API, etherum and solidity
+- 🌱 I’m currently learning .net, dApp, API, ethereum and solidity
 - 💞️ I’m looking to collaborate on solidity program
 - 📫 How to reach me.. email- nandinigupta1872@gmail.com
 
